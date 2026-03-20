@@ -153,7 +153,7 @@ The following is an `example` doctype that illustrates the possible properties:
 # 'path' defines the relative path in vault to what files should map to this doctype
 path = "relative/path/to/docs/"
 # 'attr' defines what attribute key should map to this doc type -- defaults to the name of this type entry which is 'example' here
-attr = "example-key"
+attr = "example"
 # 'prefix' defines what filename prefix may trigger this type (useful for cmd/ctrl+click to create new doc from template)
 prefix = "prefix."
 # 'suffix' to append to new doc (useful for appending unique ids)
